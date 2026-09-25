@@ -19,7 +19,7 @@ En este avance, utilice un proyecto pasado sobre un punto de venta para una tien
 En consola:
 
 ```cmd
-poner la direccion de la carpeta con los archivos y poner cd "Dirreccion"
+poner la direccion de la carpeta con los archivos y poner cd "Direccion"
 
 y luego:
  
