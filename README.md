@@ -51,4 +51,4 @@ Las opciones del menú dependeran de que rango eres, entre más alto el rango ma
 
 ## Sub-competencias
 
-Coloque la librería de algorithm, para poner el algoritmo de ordenamiento, en el código esta implementado para la sección de reporte de ventas, para ordenar el numero de ventas de los productos, yo creo que puede funcionar para que el gerente o administrador pueda ver que cosas se venden mas y cuales menos y asi tener mas stock disponible para eso o eliminar productos que no se venden.
+Coloque la librería algorith, para poner el algoritmo de ordenamiento, en el código esta implementado para la sección de reporte de ventas, para ordenar el numero de ventas de los productos, yo creo que puede funcionar para que el gerente o administrador pueda ver que cosas se venden mas y cuales menos y asi tener mas stock disponible para eso o eliminar productos que no se venden.
