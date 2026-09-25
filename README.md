@@ -1,4 +1,4 @@
-# Proyecto-programaci-n-de-estructuras-de-datos-ago-dic-2026
+# Proyecto-programación-de-estructuras-de-datos-ago-dic-2026
 ## Avance 1 de proyecto
 
 En este avance, utilice un proyecto pasado sobre un punto de venta para una tienda, puede hacer lo siguiente:
