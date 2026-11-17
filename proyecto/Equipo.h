@@ -10,7 +10,6 @@ struct Equipo {
     long long danoTotal;
     std::string miembros[4];
 
-    // Sobrecarga requerida para algoritmos de ordenamiento genéricos (Sorts)
     bool operator<(const Equipo& otro) const {
         return danoTotal < otro.danoTotal;
     }
