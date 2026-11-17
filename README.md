@@ -46,10 +46,18 @@ Esta vez seleccione el algoritmo Merge Sort, ya que tiene una complejidad de 0(n
 
 ### Selecciona una estructura de datos adecuada al problema y la usa correctamente.
 
-Se utiliza un vectores dinámicos y arreglos estáticos, ya que permiten almacenar y recorrer catálogos sin importar el tamaño, con acceso directo sin importar que se aumenten datos recientemente, aquí se tiene una complejidad 0(n) por la cantidad de personajes buscados y los integrantes de cada equipo (que solo son 4).
+Se utilizan vectores dinámicos para almacenar los equipos, personajes y los resultados de las consultas hechas por el usuario, ya que la cantidad de elementos puede aumentar al ser un juego que lanza nuevos personajes cada cierto tiempo y con los arreglos también estamos seguros para los equipos, debido a que el numero de personajes que puede tener un equipo no va a cambiar (lo más seguro). 
+Su complejidad, en los dinámicos cuando accede a un elemento se tiene O(1) en todos los casos, ya que se accede por el índice y esto es directo, cuando recorre los elementos es de O(n) y cuando lo busca sin que este ordenado previamente es de O(n).
+Y en los estáticos que se usan para guardar los 4 personajes de los equipos, como se ingresa por índice es de O(1), en los recorridos de los 4 personajes de O(1) ya que siempre será la misma cantidad.
+
 
 ## SICT0303: Implementa acciones científicas
 
 ### Implementa mecanismos para consultar información de las estructuras correctos.
-Aquí se implementan mecanismos de consulta para filtrar y visualizar toda la info de los personajes y equipos. Esto sirve en el programa  para acceder a los datos almacenados y consultarlos a la hora de que el usuario seleccione los filtros.
+
+Aquí se implementan mecanismos para filtrar y visualizar info de los personajes y equipos. Que son los de búsqueda de personajes seleccionados, comparación de nombres para evitar repetidos, para las mayúsculas y minúsculas (en la entrega anterior no lo tenía) y la distinción de personajes de 4 y 5 estrellas, se hace con ifstream y stringstream.
+En los de lectura, se utilizan 2 archivos CSV para almacenar la info necesaria para el programa. En equipos.csv están los equipos y toda la info de estos, en personajes.csv esta el nombre del personaje y si es de 4 ó 5 estrellas.
+Para guardar, se usa ofstream para guardar los cambio hechos por el usuario al usar el programa, para guardar un nuevo equipo de usa ios::app.  
+
+
 
