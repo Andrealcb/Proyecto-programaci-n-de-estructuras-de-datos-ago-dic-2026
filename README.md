@@ -1,3 +1,33 @@
+# Evidencia problemas de programación
+
+En este apartado se encuentran los tres problemas seleccionados y resueltos para la actividad, junto con sus respectivos videos de explicación.
+
+## 1. Algoritmos de ordenamiento
+
+**Problema:** [2164. Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)
+
+**Dificultad:** Fácil
+
+**Video de explicación:** [Ver video](https://youtu.be/clb2FBrB5gk)
+
+## 2. Estructuras de datos lineales
+
+**Problema:** [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+
+**Dificultad:** Fácil
+
+**Video de explicación:** [Ver video](https://youtu.be/wdgxKQT1z5Y)
+
+## 3. Estructuras de datos no lineales
+
+**Problema:** [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+**Dificultad:** Media
+
+**Video de explicación:** [Ver video](https://youtu.be/e1bdmnm8_LQ)
+
+
+
 # Proyecto-programación-de-estructuras-de-datos-ago-dic-2026
 ## Avance 2 de proyecto
 
