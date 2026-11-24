@@ -2,6 +2,8 @@
 
 En este apartado se encuentran los tres problemas seleccionados y resueltos para la actividad, junto con sus respectivos videos de explicación.
 
+**Perfil de LeetCode:** [Mi perfil](https://leetcode.com/u/w8O2PIBtOO/)
+
 ## 1. Algoritmos de ordenamiento
 
 **Problema:** [2164. Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/)
